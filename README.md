@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yagaykhatri
+- 👋 Hi, I’m Yagay Khatri
 - 👀 I’m interested in data science and artificial intelligence.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science projects
